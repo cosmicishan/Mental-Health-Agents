@@ -1,5 +1,8 @@
 # Mental Health Support System
 
+![Uploading image.png…]()
+
+
 A multi-agent, multi-tool mental health support chatbot built using LangGraph, LangChain, and Streamlit.
 
 ---
@@ -36,13 +39,13 @@ The **Mental Health Support System** is a conversational AI platform designed to
 ---
 
 # Workflow
-
+![image](https://github.com/user-attachments/assets/8583add5-4cf8-4e4d-a46c-be16fdcbcf2d)
 
 ---
 
 ## Example Interactions
 
-
+![Screenshot from 2025-05-25 01-38-58](https://github.com/user-attachments/assets/540a93e7-b370-4a42-b5cb-7720d6605d2c)
 
 ---
 
