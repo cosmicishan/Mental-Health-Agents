@@ -1,7 +1,6 @@
 # Mental Health Support System
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/382c664f-528a-4e8e-9a88-f68ff9b99f51)
 
 A multi-agent, multi-tool mental health support chatbot built using LangGraph, LangChain, and Streamlit.
 
